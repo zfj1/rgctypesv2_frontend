@@ -41,7 +41,7 @@
     ]
   },
   "homepage": "/static/",
-  "proxy": "http://rgctypes2.eba-fpmw83pv.us-east-2.elasticbeanstalk.com/",
+  "proxy": "http://rgctypes-server.eba-xufippmu.us-east-2.elasticbeanstalk.com/",
   "devDependencies": {
     "dotenv": "^8.2.0"
   }
