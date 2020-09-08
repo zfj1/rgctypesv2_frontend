@@ -28,4 +28,4 @@ queries.js
 .env
 
 # images
-/public/images
+# /public/images
